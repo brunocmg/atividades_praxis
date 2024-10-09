@@ -1,0 +1,129 @@
+body {
+    display: inline-block;
+}
+
+.um {
+    margin-top: 100px;
+    margin-left: 702px;
+}
+
+.seis {
+    margin-left: 702px;
+}
+
+.onze {
+    margin-left: 702px;
+}
+
+.dezesseis {
+    margin-left: 702px;
+}
+
+.vinteeum {
+    margin-left: 702px;
+}
+
+.vinteeseis {
+    margin-left: 702px;
+}
+
+/*  */
+
+.oito {
+    background-color: rgb(255, 0, 0);
+    width: 100px;
+    height: 100px;
+}
+
+.doze {
+    background-color: rgb(153, 0, 255);
+    width: 100px;
+    height: 100px;
+}
+
+.treze {
+    background-color: rgb(0, 225, 255);
+    width: 100px;
+    height: 100px;
+}
+
+.quatorze {
+    background-color: rgb(255, 251, 0);
+    width: 100px;
+    height: 100px;
+}
+
+.dezoito {
+    background-color: rgb(255, 0, 140);
+    width: 100px;
+    height: 100px;
+}
+
+.vinteetres {
+    background-color: rgb(0, 4, 255);
+    width: 100px;
+    height: 100px;
+}
+
+
+.um,
+.dois,
+.tres,
+.quatro,
+.cinco,
+.seis,
+.sete,
+.nove,
+.dez,
+.onze,
+.quinze,
+.dezesseis,
+.dezessete,
+.dezenove,
+.vinte,
+.vinteeum,
+.vinteedois,
+.vinteequatro,
+.vinteecinco,
+.vinteeseis,
+.vinteesete,
+.vinteeoito,
+.vinteenove,
+.trinta {
+    background-color: gray;
+    width: 100px;
+    height: 100px;
+}
+
+.um,
+.dois,
+.tres,
+.quatro,
+.cinco,
+.seis,
+.sete,
+.oito,
+.nove,
+.dez,
+.onze,
+.doze,
+.treze,
+.quatorze,
+.quinze,
+.dezesseis,
+.dezessete,
+.dezoito,
+.dezenove,
+.vinte,
+.vinteeum,
+.vinteedois,
+.vinteetres,
+.vinteequatro,
+.vinteecinco,
+.vinteeseis,
+.vinteesete,
+.vinteeoito,
+.vinteenove,
+.trinta {
+    display: inline-block;
+}
