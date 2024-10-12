@@ -1,0 +1,70 @@
+img {
+    height: 500px;
+    width: 500px;
+    border-radius: 30px;
+}
+
+.foto1,
+.foto3,
+.foto5,
+.foto7,
+.foto9 {
+    margin-left: 200px;
+    margin-bottom: 990px;
+}
+
+.foto2,
+.foto4,
+.foto6,
+.foto8,
+.foto10 {
+    position: absolute;
+    right: 200px;
+}
+
+.foto2 {
+    top: 1800px;
+}
+
+.foto4 {
+    top: 3300px;
+}
+
+.foto6 {
+    top: 4800px;
+}
+
+.foto8 {
+    top: 6300px;
+}
+
+.foto10 {
+    top: 7800px;
+}
+
+.foto1,
+.foto2,
+.foto3,
+.foto4,
+.foto5,
+.foto6,
+.foto7,
+.foto8,
+.foto9,
+.foto10 {
+    display: flex;
+}
+
+.r {
+    padding-left: 100px;
+    max-width: 500px;
+    text-align: center;
+    padding-top: 150px;
+}
+
+.l {
+    padding-right: 100px;
+    max-width: 500px;
+    text-align: center;
+    padding-top: 150px;
+}

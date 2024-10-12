@@ -1,0 +1,21 @@
+header {
+    display: flex;
+    border-bottom: solid 1px #000000;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.nome-site {
+    color: white;
+}
+
+.text-imagens {
+    position: absolute;
+    right: 15px;
+    color: white;
+}
+
+header {
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
