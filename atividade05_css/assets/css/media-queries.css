@@ -1,0 +1,653 @@
+@media (min-width: 1025px) and (max-width: 1440px) {
+   .text-nav {
+    font-size: 18px;
+    padding-right: 40px;
+   }
+
+   #logo-nav {
+    left: 60px;
+   }
+
+   #silksong-logo {
+    height: 300px;
+    width: 500px;
+   }
+
+   #background {
+    width: 100%;
+    height: 700px;
+    }
+
+    #text-jogo {
+        top: 21%;
+    }
+
+    #silksong-promo {
+        width: 700px;
+        height: 350px;
+        top: 106%;
+    }
+
+    #disponivel {
+        font-size: 32px;
+    }
+
+    .plataformas {
+        padding-right: 30px;
+    }
+
+    #steam {
+        width: 140px;
+        height: 60px;
+    }
+    
+    #humble {
+        width: 240px;
+        height: 360px;
+    }
+    
+    #switch {
+        width: 160px;
+        height: 60px;
+    }
+    
+    #xbox {
+        width: 160px;
+        height: 100px;
+    }
+    
+    #gog {
+        width: 100px;
+        height: 100px;
+    }
+
+    #titulo-historia {
+        font-size: 40px;
+    }
+
+    #caixa1 {
+        width: 450px;
+        height: 250px;
+    }
+
+    #titulo1 {
+        font-size: 22px;
+        padding-top: 20px;
+    }
+    
+    #texto1 {
+        font-size: 14px;
+        padding: 0 50px;
+    }
+    
+    #img-parte1 {
+        width: 450px;
+        height: 250px;
+        margin-left: 50px;
+    }
+
+    #caixa2 {
+        width: 450px;
+        height: 250px;
+    }
+
+    #titulo2 {
+        font-size: 22px;
+        padding-top: 5px;
+    }
+    
+    #texto2-parte1 {
+        font-size: 14px;
+        padding: 0 50px;
+    }
+
+    #texto2-parte2 {
+        font-size: 14px;
+        padding: 0 50px;
+    }
+    
+    #img-parte2 {
+        width: 450px;
+        height: 250px;
+        margin-left: 50px;
+    }
+
+    #caixa3 {
+        width: 450px;
+        height: 250px;
+    }
+
+    #titulo3 {
+        font-size: 20px;
+        padding-top: 0;
+    }
+    
+    #texto3-parte1 {
+        font-size: 14px;
+        padding: 0 50px;
+    }
+
+    #texto3-parte2 {
+        font-size: 14px;
+        padding: 0 50px;
+    }
+    
+    #img-parte3 {
+        width: 450px;
+        height: 250px;
+        margin-left: 50px;
+    }
+
+    #screenshot {
+        width: 450px;
+        height: 250px;
+    }
+
+    #dados-footer {
+        padding-left: 180px;
+        padding-top: 80px;
+    }
+
+    .titulo-footer {
+        font-size: 20px;
+    }
+    
+    .text-footer {
+        font-size: 14px;
+    }
+
+    #team-cherry {
+        margin-right: 300px;
+    }
+    
+    #contato {
+        margin-right: 257px;
+    }
+
+    #logo-footer {
+        height: 100px;
+        width: 100px;
+        bottom: 0;
+        right: 10%; 
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    nav {
+        height: 50px;
+    }
+
+    .text-nav {
+    font-size: 14px;
+    padding-right: 30px;
+   }
+
+   #team-cherry-nav {
+    padding: 1px 20px 1px 20px;
+    height: 30px;
+   }
+
+   #logo-nav {
+    left: 20px;
+    height: 50px;
+    width: auto;
+   }
+
+   #silksong-logo {
+    height: 150px;
+    width: 350px;
+   }
+
+   #background {
+    width: 100%;
+    height: 450px;
+    }
+
+    #text-jogo {
+        top: 25%;
+        font-size: 14px;
+    }
+
+    #silksong-promo {
+        width: 500px;
+        height: 250px;
+        top: 106%;
+    }
+
+    #disponivel {
+        font-size: 30px;
+    }
+
+    #plataformas {
+        padding-top: 200px;
+    }
+
+    .plataformas {
+        padding-right: 10px;
+    }
+
+    #fotos-plataformas {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    #parte1-plataformas,
+    #parte2-plataformas {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #steam {
+        width: 140px;
+        height: 60px;
+    }
+    
+    #humble {
+        width: 240px;
+        height: 360px;
+    }
+    
+    #switch {
+        width: 160px;
+        height: 60px;
+    }
+    
+    #xbox {
+        width: 160px;
+        height: 100px;
+    }
+    
+    #gog {
+        width: 100px;
+        height: 100px;
+    }
+
+    #titulo-historia {
+        font-size: 30px;
+        padding-top: 70px;
+    }
+
+    #historia {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #historia-parte1 {
+        display: flex;
+        flex-direction: row;
+        flex-direction: column;
+    }
+
+    #caixa1 {
+        width: 600px;
+        height: 300px;
+        order: 2;
+    }
+
+    #titulo1 {
+        font-size: 26px;
+        padding-top: 20px;
+    }
+    
+    #texto1 {
+        font-size: 18px;
+        padding: 0 50px;
+    }
+    
+    #img-parte1 {
+        width: 600px;
+        height: 300px;
+        margin-left: 50px;
+        order: 1;
+        margin: 0;
+        padding-bottom: 50px;
+    }
+
+    #historia-parte2 {
+        display: flex;
+        flex-direction: row;
+        flex-direction: column;
+    }
+
+    #caixa2 {
+        width: 600px;
+        height: 300px;
+        order: 4;
+    }
+
+    #titulo2 {
+        font-size: 26px;
+        padding-top: 20px;
+    }
+    
+    #texto2-parte1 {
+        font-size: 18px;
+        padding: 0 50px;
+    }
+
+    #texto2-parte2 {
+        font-size: 18px;
+        padding: 0 50px;
+    }
+    
+    #img-parte2 {
+        width: 600px;
+        height: 300px;
+        margin-left: 50px;
+        order: 3;
+        margin: 0;
+        padding-bottom: 50px;
+    }
+
+    #historia-parte3 {
+        display: flex;
+        flex-direction: row;
+        flex-direction: column;
+    }
+
+    #caixa3 {
+        width: 600px;
+        height: 300px;
+        order: 6;
+    }
+
+    #titulo3 {
+        font-size: 26px;
+        padding-top: 20px;
+    }
+    
+    #texto3-parte1 {
+        font-size: 16px;
+        padding: 0 50px;
+    }
+
+    #texto3-parte2 {
+        font-size: 16px;
+        padding: 0 50px;
+    }
+    
+    #img-parte3 {
+        width: 600px;
+        height: 300px;
+        margin-left: 50px;
+        order: 5;
+        margin: 0;
+        padding-bottom: 50px;
+    }
+
+    #screenshot {
+        width: 600px;
+        height: 300px;
+    }
+
+    #dados-footer {
+        padding-left: 100px;
+    }
+
+    .titulo-footer {
+        font-size: 20px;
+    }
+    
+    .text-footer {
+        font-size: 14px;
+    }
+
+    #team-cherry {
+        margin-right: 250px;
+    }
+    
+    #contato {
+        margin-right: 207px;
+    }
+
+    #logo-footer {
+        height: 90px;
+        width: 90px;
+        bottom: 0;
+        right: 10%; 
+    }
+}
+
+@media (max-width: 768px) {
+    nav {
+        height: 50px;
+    }
+
+    .text-nav {
+    font-size: 13px;
+    padding-right: 15px;
+   }
+
+   #team-cherry-nav {
+    padding: 1px 20px 1px 20px;
+    height: 30px;
+   }
+
+   #logo-nav {
+    left: 20px;
+    height: 50px;
+    width: auto;
+   }
+
+   #silksong-logo {
+    height: 150px;
+    width: 350px;
+    top: 52%;
+   }
+
+   #background {
+    width: 100%;
+    height: 500px;
+    }
+
+    #text-jogo {
+        top: 25%;
+        font-size: 11px;
+        top: 30%;
+    }
+
+    #silksong-promo {
+        width: 450px;
+        height: 250px;
+        top: 106%;
+    }
+
+    #disponivel {
+        font-size: 24px;
+    }
+
+    #plataformas {
+        padding-top: 200px;
+    }
+
+    .plataformas {
+        padding-right: 20px;
+    }
+
+    #fotos-plataformas {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    #parte1-plataformas,
+    #parte2-plataformas {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #steam {
+        width: 140px;
+        height: 60px;
+    }
+    
+    #humble {
+        width: 220px;
+        height: 360px;
+    }
+    
+    #switch {
+        width: 160px;
+        height: 60px;
+    }
+    
+    #xbox {
+        width: 160px;
+        height: 100px;
+    }
+    
+    #gog {
+        width: 100px;
+        height: 100px;
+    }
+
+    #titulo-historia {
+        font-size: 22px;
+        padding-top: 70px;
+    }
+
+    #historia {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #historia-parte1 {
+        display: flex;
+        flex-direction: row;
+        flex-direction: column;
+    }
+
+    #caixa1 {
+        width: 480px;
+        height: 250px;
+        order: 2;
+    }
+
+    #titulo1 {
+        font-size: 20px;
+        padding-top: 10px;
+    }
+    
+    #texto1 {
+        font-size: 14px;
+        padding: 0 50px;
+    }
+    
+    #img-parte1 {
+        width: 480px;
+        height: 250px;
+        margin-left: 50px;
+        order: 1;
+        margin: 0;
+        padding-bottom: 50px;
+    }
+
+    #historia-parte2 {
+        display: flex;
+        flex-direction: row;
+        flex-direction: column;
+    }
+
+    #caixa2 {
+        width: 480px;
+        height: 250px;
+        order: 4;
+    }
+
+    #titulo2 {
+        font-size: 24px;
+        padding-top: 10px;
+    }
+    
+    #texto2-parte1 {
+        font-size: 14px;
+        padding: 0 50px;
+    }
+
+    #texto2-parte2 {
+        font-size: 14px;
+        padding: 0 50px;
+    }
+    
+    #img-parte2 {
+        width: 480px;
+        height: 250px;
+        margin-left: 50px;
+        order: 3;
+        margin: 0;
+        padding-bottom: 50px;
+    }
+
+    #historia-parte3 {
+        display: flex;
+        flex-direction: row;
+        flex-direction: column;
+    }
+
+    #caixa3 {
+        width: 480px;
+        height: 250px;
+        order: 6;
+    }
+
+    #titulo3 {
+        font-size: 22px;
+        padding-top: 20px;
+    }
+    
+    #texto3-parte1 {
+        font-size: 13px;
+        padding: 0 50px;
+    }
+
+    #texto3-parte2 {
+        font-size: 13px;
+        padding: 0 50px;
+    }
+    
+    #img-parte3 {
+        width: 480px;
+        height: 250px;
+        margin-left: 50px;
+        order: 5;
+        margin: 0;
+        padding-bottom: 50px;
+    }
+
+    #screenshot {
+        width: 480px;
+        height: 250px;
+    }
+
+    #dados-footer {
+        padding-left: 70px;
+    }
+
+    .titulo-footer {
+        font-size: 20px;
+    }
+    
+    .text-footer {
+        font-size: 14px;
+    }
+
+    #team-cherry {
+        margin-right: 200px;
+    }
+    
+    #contato {
+        margin-right: 157px;
+    }
+
+    #logo-footer {
+        height: 90px;
+        width: 90px;
+        bottom: 0;
+        right: 2%; 
+    }
+}
