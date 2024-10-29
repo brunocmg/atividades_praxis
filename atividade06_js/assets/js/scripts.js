@@ -1,6 +1,7 @@
 let alunosMaiorDeIdade = []
 let alunosMenorDeIdade = []
 
+// função para cadastro de alunos, separando-os pela maioridade
 function cadastroDeAluno() {
     const nome = prompt("Qual seu nome?")
     const idade = parseInt(prompt("Qual sua idade?"))
@@ -15,15 +16,18 @@ function cadastroDeAluno() {
     }
 }
 
+// função para exibir alunos maiores de idade no console do navegador
 function exibirAlunosMaiorDeIdade() {
     console.log("Alunos Maiores de Idade: ", alunosMaiorDeIdade);
 }
 
+// função para exibir alunos menores de idade no console do navegador
 function exibirAlunosMenorDeIdade() {
     console.log("Alunos Menores de Idade: ", alunosMenorDeIdade);
 }
 
-function reabrirCadastro() {
+// função para abriar a caixa de cadastro
+function abrirCadastro() {
     let acao = ""
 
     while(acao != "4") {
@@ -41,3 +45,5 @@ function reabrirCadastro() {
 
 
 }
+
+abrirCadastro()
